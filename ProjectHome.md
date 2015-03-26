@@ -1,0 +1,1 @@
+ReflowOven is a modification of a pizza oven for the aim of soldering smd components. The temperature controll is done by an PID implemented in an AVR RISC Microcontroller.
